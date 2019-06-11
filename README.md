@@ -1,4 +1,4 @@
-# Project Title
+# (Squarespace) Image Gallery Scraper
 
 This is a Node.js web scraper for downloading images from a website. I made it specifically to scrape original images from a Squarespace photo portfolio site with 30+ galleries using the "Flatiron" template, but it's easily modified to any website. Give it the homepage and use CSS selectors to find subpages, find CSS selected images on those subpages, create corresponding local directories, then download images to them.
 
